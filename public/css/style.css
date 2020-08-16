@@ -1,0 +1,17 @@
+.card-header {
+  background-color: darkcyan;
+  /* border-radius: 15px; */
+  color: white;
+  text-align: center;
+  font-size: 1.8em;
+}
+
+.btn-submit {
+  background-color: darkcyan;
+  color: white;
+  padding: 7px 25px 7px 25px;
+}
+
+.invalid-feedback, .col-form-label {
+  font-size: 15px;
+}
